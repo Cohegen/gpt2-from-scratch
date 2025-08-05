@@ -24,3 +24,8 @@ Clone this repository:
 ```bash
 git clone https://github.com/Cohegen/gpt2-from-scratch.git
 cd gpt2-from-scratch
+
+
+
+Read the gpt2paper from openai snd also the attention is all you need
+
