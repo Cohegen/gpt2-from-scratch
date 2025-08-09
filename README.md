@@ -17,6 +17,12 @@ This repository provides a minimal, educational, and annotated implementation of
 - Python 3.7+
 - [NumPy](https://numpy.org/)
 - [Torch](https://pytorch.org/) (if using GPU acceleration)
+- Basic understanding of linear Algebra concepts like dot product,vectors and matrix multiplication
+
+
+## Papers to read:
+- Attention is all you need : https://arxiv.org/abs/1706.03762
+- GPT-2 paper(Large Language Models are Unsupervised Multitask Learners : https://cdn.openai.com/better-language models/language_models_are_unsupervised_multitask_learners.pdf
 
 ### Installation
 
@@ -26,6 +32,4 @@ git clone https://github.com/Cohegen/gpt2-from-scratch.git
 cd gpt2-from-scratch
 
 
-
-Read the gpt2paper from openai snd also the attention is all you need
 
