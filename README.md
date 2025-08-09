@@ -22,8 +22,7 @@ This repository provides a minimal, educational, and annotated implementation of
 
 ## Papers to read:
 - Attention is all you need : https://arxiv.org/abs/1706.03762
-- GPT-2 paper(Large Language Models are Unsupervised Multitask Learners) :
-https://cdn.openai.com/better-language models/language_models_are_unsupervised_multitask_learners.pdf
+- GPT-2 paper: https://cdn.openai.com/better-language models/language_models_are_unsupervised_multitask_learners.pdf
 
 ### Installation
 
