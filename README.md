@@ -22,7 +22,7 @@ This repository provides a minimal, educational, and annotated implementation of
 
 ## Papers to read:
 - Attention is all you need : https://arxiv.org/abs/1706.03762
-- GPT-2 paper 
+- GPT-2 paper(Large Language Models are just Multitask learners)
 
 ### Installation
 
