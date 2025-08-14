@@ -25,7 +25,7 @@ This repository provides a minimal, educational, and annotated implementation of
 - GPT-2 paper(Large Language Models are just Multitask learners)
 
 ## Diagram
-[LLM]()
+[LLM](llm.webp)
 
 ### Installation
 
